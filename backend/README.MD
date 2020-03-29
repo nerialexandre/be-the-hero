@@ -7,8 +7,8 @@ Back-end Aplicação destinada a ongs que desejam divulgar casos, com o objetivo
 
 ## Requisitos
 
-° Baixar NodeJS - Comece com o Node para usar tudo no ecossistema JS.
-    https://nodejs.org/en/download/
+
+* [NodeJS](https://nodejs.org/en/download/) - Comece com o Node para usar tudo no ecossistema JS
  
 
 ## Iniciar:
