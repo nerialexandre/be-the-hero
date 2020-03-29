@@ -19,8 +19,8 @@ $ yarn
 
 # Ferramentas utilizadas 
 
-° Nodejs
-° Express
-° SQLite
-° Knex
-° Celebrate
+* Nodejs
+* Express
+* SQLite
+* Knex
+* Celebrate
