@@ -1,4 +1,8 @@
 
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=250px height=250px src="https://github.com/nerialexandre/be-the-hero/blob/master/frontend/src/assets/logo.svg" alt="Project logo"></a>
+</p>
 
 
 # Be The Hero
