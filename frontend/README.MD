@@ -32,7 +32,6 @@ $ yarn start
 ## Ferramentas utilizadas 
 
 * React
-* React Navigation
 * Axios
 * React Icons
 
